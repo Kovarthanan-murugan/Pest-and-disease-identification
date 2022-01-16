@@ -7,7 +7,7 @@ TensorFlow is a free and open-source software library for machine learning. It c
 **FASTER RCNN ALGORITHM:**
 Faster RCNN is an object detector that was developed solely by Ross Girshick, a Facebook AI researcher and a former Microsoft Researcher. Fast R-CNN overcomes several issues in R-CNN. As its name suggests, one advantage of the Fast R-CNN over R-CNN is its speed.
 
-                                                               ![image](https://user-images.githubusercontent.com/90558927/149665061-bad9ae36-15cc-4ff8-9d77-e9a3b3e19f35.png)
+                                                             ![image](https://user-images.githubusercontent.com/90558927/149665115-12cde056-4d70-4a70-b6e3-8cb4eef695f6.png)
 
                 
 
