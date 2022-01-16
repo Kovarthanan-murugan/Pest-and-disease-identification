@@ -7,6 +7,7 @@ Faster RCNN is an object detector that was developed solely by Ross Girshick, a 
 
 ![image](https://user-images.githubusercontent.com/90558927/149665149-af0afca1-108f-4321-94c9-3a07de58ce34.png)
 
+
 **TRAINING IMAGES:**
 
 ![image](https://user-images.githubusercontent.com/90558927/149665196-e7c54810-1ca0-43fa-bc04-70d77b23a509.png)
