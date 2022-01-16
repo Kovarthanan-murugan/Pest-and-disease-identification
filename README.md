@@ -8,6 +8,7 @@ Faster RCNN is an object detector that was developed solely by Ross Girshick, a 
 ![image](https://user-images.githubusercontent.com/90558927/149665149-af0afca1-108f-4321-94c9-3a07de58ce34.png)
 
 **TRAINING IMAGES:**
+
 ![image](https://user-images.githubusercontent.com/90558927/149665196-e7c54810-1ca0-43fa-bc04-70d77b23a509.png)
 
 We’ll be using a TensorFlow implementation of Faster R-CNN which means we need to generate TFRecords for TensorFlow to be able to read our images and their labels. TFRecord is a file format that contains both our images and their annotations. It’s serialized at the dataset-level, meaning we create one set of records for our training set, validation set, and testing set. We’ll also need to create a label map, which maps our label names (RBC, WBC, and platelets) to numbers in a dictionary format.
